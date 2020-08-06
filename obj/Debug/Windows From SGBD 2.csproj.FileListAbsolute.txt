@@ -1,0 +1,30 @@
+F:\SGBD\Windows From SGBD 2\bin\Debug\Windows From SGBD 2.exe.config
+F:\SGBD\Windows From SGBD 2\bin\Debug\Windows From SGBD 2.exe
+F:\SGBD\Windows From SGBD 2\bin\Debug\Windows From SGBD 2.pdb
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows From SGBD 2.csprojAssemblyReference.cache
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows_From_SGBD_2.Form1.resources
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows_From_SGBD_2.Properties.Resources.resources
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows From SGBD 2.csproj.GenerateResource.cache
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows From SGBD 2.csproj.CoreCompileInputs.cache
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows From SGBD 2.exe
+F:\SGBD\Windows From SGBD 2\obj\Debug\Windows From SGBD 2.pdb
+F:\SGBD\Windows Form SGDB 2\bin\Debug\Windows From SGBD 2.exe.config
+F:\SGBD\Windows Form SGDB 2\bin\Debug\Windows From SGBD 2.exe
+F:\SGBD\Windows Form SGDB 2\bin\Debug\Windows From SGBD 2.pdb
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.csprojAssemblyReference.cache
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows_From_SGBD_2.Form1.resources
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows_From_SGBD_2.Properties.Resources.resources
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.csproj.GenerateResource.cache
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.csproj.CoreCompileInputs.cache
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.exe
+F:\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.pdb
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\bin\Debug\Windows From SGBD 2.exe.config
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\bin\Debug\Windows From SGBD 2.exe
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\bin\Debug\Windows From SGBD 2.pdb
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.csprojAssemblyReference.cache
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows_From_SGBD_2.Form1.resources
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows_From_SGBD_2.Properties.Resources.resources
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.csproj.GenerateResource.cache
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.csproj.CoreCompileInputs.cache
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.exe
+D:\facultate\facultate\Sem IV\Datenbankverwaltngssysteme\SGBD\Windows Form SGDB 2\obj\Debug\Windows From SGBD 2.pdb
